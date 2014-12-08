@@ -28,8 +28,9 @@ Program:
 	In second cycle put data to proper place.
 
 Results:
-	Multi Process: 106.9 ms
-	Multi Thread: 84.5 ms
+	In 50M Array
+		Multi Process: 106.9 ms
+		Multi Thread: 84.5 ms
 
 	Test System:
 		CPU: i7-2670QM @ 2.20
